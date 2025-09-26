@@ -22,7 +22,7 @@ The python packages can be downloaded using the follwing commmands:
 → Spyder's Console: !pip install numpy pandas matplotlib scipy
 → Anaconda Prompt: conda install numpy pandas matplotlib scipy
 
-#Real Space and Log Space
+# Real Space and log space
 Real Space: This is the original distribution of the data. In environmental studies, such data is often assumed to follow a lognormal distribution, meaning its logarithm is normally distributed.
 
 Log Space: Also referred to as the "underlying normal space," it is obtained by taking the natural logarithm of data points from real space. This transformation is used when the data is assumed to follow a lognormal distribution, so the log-transformed data becomes normally distributed.
