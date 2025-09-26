@@ -1,2 +1,6 @@
-# Aniticipatory-LCA_CdTe-PV-Recycling_United-States
-Code for Moment_Independent Sensitivity Analysis for the paper  " Anticipatory Life Cycle Assessment of an Industry-Operated CdTe Photovoltaic Recycling Process in the United States"
+# MISA code for sensitivity analysis
+This repository contains the code used to perform the Moment Independent Sensitivity Analysis (MISA) presented in the paper:
+
+"Anticipatory Life Cycle Assessment of an Industry-Operated CdTe Photovoltaic Recycling Process in the United States"
+
+Authors: Aman Raj, Dwarakanath Ravikumar, and Meryl Winicov
