@@ -12,15 +12,14 @@ The Moment Independent Sensitivity Analysis (MISA) quantifies the contribution o
 - `MISA code.py`                                         → Main script for running MISA Delta Index
 
 # Required Python Packages
-Follwing Packages are required to run the MISA code:
+The following packages are required to run the MISA code:
 numpy
 pandas
 matplotlib
 scipy
 
-The python packages can be downloaded using the follwing commmands:
-→ Spyder's Console: !pip install numpy pandas matplotlib scipy
-→ Anaconda Prompt: conda install numpy pandas matplotlib scipy
+# Installation
+conda install numpy pandas matplotlib scipy
 
 # Real Space and log space
 Real Space: This is the original distribution of the data. In environmental studies, such data is often assumed to follow a lognormal distribution, meaning its logarithm is normally distributed.
