@@ -19,8 +19,9 @@ matplotlib
 scipy
 
 # Installation
+```bash
 conda install numpy pandas matplotlib scipy
-
+```
 # Real Space and log space
 Real Space: This is the original distribution of the data. In environmental studies, such data is often assumed to follow a lognormal distribution, meaning its logarithm is normally distributed.
 
