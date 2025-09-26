@@ -27,7 +27,7 @@ Real Space: This is the original distribution of the data. In environmental stud
 
 Log Space: Also referred to as the "underlying normal space," it is obtained by taking the natural logarithm of data points from real space. This transformation is used when the data is assumed to follow a lognormal distribution, so the log-transformed data becomes normally distributed.
 
-The expected mean for the amount of an input (AM_m) is obtained from the literature. The geometric standard deviation (GSD) for this amount (AM_GSD) is derived using the Pedigree Matrix (refer to the SI section 10). These values, which are in real space, are converted to the mean and standard deviation in log space using Equations 1 and 2:
+The expected mean value for the amount of an input (AM_m) is derived from a combination of industry-supplied primary data for the recycling process and literature-based secondary data for downstream processes, including secondary processing of recovered material, virgin material production, and landfill operations in the U.S. (see SI Sections S4–S8). The geometric standard deviation (GSD) for this amount (AM_GSD) is derived using the Pedigree Matrix (refer to the SI section S10). These values, which are in real space, are converted to the mean and standard deviation in log space using Equations 1 and 2:
 Equation 1: μ (mean) = ln(E(X)) − (1/2 × σ²)
 
 where E(X) is the expected mean in real space and σ is the geometric standard deviation in real space
